@@ -1,0 +1,17 @@
+body {
+  background-color: DodgerBlue;
+  font-family: tahoma;
+  color: DeepPink;
+  letter-spacing: 2px;
+}
+nav {
+  display: flex;
+  font-size: 15px;
+}
+h1 {
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 50px;
+}
