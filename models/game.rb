@@ -5,9 +5,6 @@ class Game
     @hand2 = hand2
   end
 
-
-
-
   def match
     if (@hand1 == "rock" && @hand2 == "scissors") ||
       (@hand1 == "scissors" && @hand2 == "paper") ||
